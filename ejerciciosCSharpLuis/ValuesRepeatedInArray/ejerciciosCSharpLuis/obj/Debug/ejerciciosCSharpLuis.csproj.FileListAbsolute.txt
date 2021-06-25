@@ -1,0 +1,7 @@
+C:\Users\ldelorbe\source\repos\ejerciciosCSharpLuis\ejerciciosCSharpLuis\bin\Debug\ejerciciosCSharpLuis.exe.config
+C:\Users\ldelorbe\source\repos\ejerciciosCSharpLuis\ejerciciosCSharpLuis\bin\Debug\ejerciciosCSharpLuis.exe
+C:\Users\ldelorbe\source\repos\ejerciciosCSharpLuis\ejerciciosCSharpLuis\bin\Debug\ejerciciosCSharpLuis.pdb
+C:\Users\ldelorbe\source\repos\ejerciciosCSharpLuis\ejerciciosCSharpLuis\obj\Debug\ejerciciosCSharpLuis.csprojAssemblyReference.cache
+C:\Users\ldelorbe\source\repos\ejerciciosCSharpLuis\ejerciciosCSharpLuis\obj\Debug\ejerciciosCSharpLuis.csproj.CoreCompileInputs.cache
+C:\Users\ldelorbe\source\repos\ejerciciosCSharpLuis\ejerciciosCSharpLuis\obj\Debug\ejerciciosCSharpLuis.exe
+C:\Users\ldelorbe\source\repos\ejerciciosCSharpLuis\ejerciciosCSharpLuis\obj\Debug\ejerciciosCSharpLuis.pdb
